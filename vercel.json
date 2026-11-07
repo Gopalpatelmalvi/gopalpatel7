@@ -1,0 +1,8 @@
+{
+ "rewrites": [
+  {
+   "source": "/(.*)",
+   "destination": "https://gopal-patel.sites.tab.bot/$1"
+  }
+ ]
+}
