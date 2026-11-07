@@ -1,2 +1,2 @@
-# gopalpatel7
-Gopal Patel personal site
+# Gopal Patel
+Personal site: https://gopal-patel.sites.tab.bot/
